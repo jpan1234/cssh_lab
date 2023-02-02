@@ -1,2 +1,3 @@
 # cssh_lab
-Code for the CSSH Lab
+
+This repository contains code used to process speech data and twitter text data.
